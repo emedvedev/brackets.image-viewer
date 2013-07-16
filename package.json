@@ -1,0 +1,14 @@
+{
+    "name": "image-viewer",
+    "title": "Image Viewer",
+    "version": "1.0.0",
+    "description": "Lets you view image contents and dimensions instead of showing the error modal. Currently OS X only.",
+    "homepage": "https://github.com/warabe/brackets.image-viewer",
+    "files": [
+        "main.js",
+        "README.md"
+    ],
+    "engines": {
+        "brackets": ">0.26.0"
+    }
+}
